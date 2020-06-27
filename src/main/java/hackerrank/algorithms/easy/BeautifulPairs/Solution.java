@@ -21,7 +21,6 @@ public class Solution {
             bucket[a]++;
         }
 
-
         // Array A와 Array B가 동일한 수를 저장할 변수를 초기화한다.
         int nOfPairs = 0;
         // Array B를 순회하며 비교한다.
