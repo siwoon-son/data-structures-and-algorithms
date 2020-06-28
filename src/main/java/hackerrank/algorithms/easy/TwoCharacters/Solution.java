@@ -13,6 +13,7 @@ public class Solution {
     // Complete the alternate function below.
     // https://studyalgorithms.com/string/hackerrank-two-characters/
     static int alternate(String s) {
+        // 문자열 s에서 문자들을 제거하며 가장 긴 two alternating characters의 길이를 반환한다.
         final int NUM_LETTERS = 26;
         final int length = s.length();
 

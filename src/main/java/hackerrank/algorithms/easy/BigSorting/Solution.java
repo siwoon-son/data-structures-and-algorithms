@@ -12,15 +12,24 @@ public class Solution {
 
     // Complete the bigSorting function below.
     static String[] bigSorting(String[] unsorted) {
+        // 입력된 Array unsorted를 그대로 정렬하면, 대량의 test case에서 timeout이 발생한다.
+        // 정렬 비용을 줄이기 위해, HashMap으로 각 숫자의 빈도수를 계산한다.
         Map<String, Integer> count = new HashMap<>();
         for (String s: unsorted) {
             Integer c = count.get(s);
+            // Map에 존재하지 않는 숫자는 0으로 초기화한다.
             if (c == null) {
                 c = 0;
             }
+            // 해당 숫자의 빈도수를 1 증가시킨다.
             count.put(s, ++c);
         }
+
+        // Map의 keyset(즉, 중복이 제거된 숫자들)을 가져온다.
         List<String> keys = new ArrayList(count.keySet());
+        // 숫자들을 오름차순으로 정렬한다.
+        // 문자열의 길이가 다르면, 긴 문자열이 더 큰 숫자다.
+        // 문자열의 길이가 같으면, 가장 큰 자리수부터 하나씩 비교한다.
         Collections.sort(keys, new Comparator<String>() {
             @Override
             public int compare(String o1, String o2) {
@@ -33,7 +42,9 @@ public class Solution {
             }
         });
 
+        // 정렬 전의 숫자 개수와 동일한 배열을 생성한다.
         String[] sorted = new String[unsorted.length];
+        // HashMap에서 각 숫자의 개수만큼 반복하여 배열을 채운다. 
         int i = 0;
         for (String key: keys) {
             int c = count.get(key);
@@ -43,37 +54,6 @@ public class Solution {
         }
 
         return sorted;
-
-
-//        Arrays.sort(unsorted, new Comparator<String>() {
-//            @Override
-//            public int compare(String o1, String o2) {
-//                if (o1.length() > o2.length()) return 1;
-//                if (o1.length() < o2.length()) return -1;
-//
-////                int len = o1.length();
-////                for (int i=0; i<len; i++) {
-////                    if (o1.charAt(i) > o2.charAt(i)) return 1;
-////                    if (o1.charAt(i) < o2.charAt(i)) return -1;
-////                }
-//                return o1.compareTo(o2);
-//            }
-//        });
-//
-//        return unsorted;
-
-//        List<BigInteger> bigIntegers = new ArrayList<>();
-//        for (String s: unsorted) {
-//            bigIntegers.add(new BigInteger(s));
-//        }
-//        Collections.sort(bigIntegers);
-//
-//        String[] sorted = new String[unsorted.length];
-//        for (int i=0; i<sorted.length; i++) {
-//            sorted[i] = bigIntegers.get(i).toString();
-//        }
-//
-//        return sorted;
     }
 
     private static final Scanner scanner = new Scanner(System.in);
