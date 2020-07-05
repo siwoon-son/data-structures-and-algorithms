@@ -2,8 +2,6 @@
 
 package hackerrank.datastructures.medium.SimpleTextEditor;
 
-import sun.tools.jstat.Operator;
-
 import java.io.*;
 import java.util.*;
 import java.text.*;
