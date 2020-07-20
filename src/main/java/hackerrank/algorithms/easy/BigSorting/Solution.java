@@ -12,6 +12,8 @@ public class Solution {
 
     // Complete the bigSorting function below.
     static String[] bigSorting(String[] unsorted) {
+        // ** 이 문제는 템플릿 소스코드를 그대로 사용할 경우 test case 6에서 timeout이 발생한다.
+        // ** Scanner와 Sysout 대신, 반드시 BufferedReader와 BufferedWriter를 사용해라.
         // 입력된 Array unsorted를 그대로 정렬하면, 대량의 test case에서 timeout이 발생한다.
         // 정렬 비용을 줄이기 위해, HashMap으로 각 숫자의 빈도수를 계산한다.
         Map<String, Integer> count = new HashMap<>();
