@@ -1,4 +1,4 @@
-package hackerrank.datastructures.easy.TreePostorderTraversal;
+package hackerrank.datastructures.easy.TreeInorderTraversal;
 
 import java.util.*;
 import java.io.*;
@@ -28,17 +28,16 @@ class Node {
 
 */
 
-    public static void postOrder(Node root) {
-        // 트리를 post-order로 순회한다.
+    public static void inOrder(Node root) {
+        // 트리를 in-order로 순회한다.
         // 현재 노드가 null이면 아무 작업도 수행하지 않는다.
         if (root == null) return;
         // 왼쪽 노드를 방문한다.
-        postOrder(root.left);
-        // 오른쪽 노드를 방문한다.
-        postOrder(root.right);
+        inOrder(root.left);
         // 현재 노드의 값을 출력한다.
         System.out.print(root.data + " ");
-
+        // 오른쪽 노드를 방문한다.
+        inOrder(root.right);
     }
 
 	public static Node insert(Node root, int data) {
@@ -66,6 +65,6 @@ class Node {
             root = insert(root, data);
         }
         scan.close();
-        postOrder(root);
-    }
+        inOrder(root);
+    }	
 }
