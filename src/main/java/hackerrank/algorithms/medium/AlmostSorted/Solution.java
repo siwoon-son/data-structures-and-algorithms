@@ -18,6 +18,7 @@ public class Solution {
         while (arr[l] < arr[r]) {
             if (arr[l] < arr[l+1]) l++;
             if (arr[r-1] < arr[r]) r--;
+            if (arr[l] > arr[l+1] && arr[r-1] > arr[r]) break;
         }
         // 좌측 인덱스가 우측 인덱스보다 크거나 같으면, 이미 정렬된 배열이다.
         if (l >= r) {
@@ -43,7 +44,7 @@ public class Solution {
             return;
         }
 
-        // 여기까지 도달하면 swap과 reverse로 불가능하다.
+       // 여기까지 도달하면 swap과 reverse로 불가능하다.
         System.out.println("no");
     }
 
