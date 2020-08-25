@@ -60,7 +60,7 @@ public class Solution {
 
             }
 
-            // 마지막 문자까지 반복했을 때의 count를 반환한다.
+            // 마지막 문자까지 반복했을 때의 count를 반환한다.₩
             return thisNode.getCount();
         }
     }

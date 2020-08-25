@@ -251,4 +251,3 @@
 |Heap|[Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies)  |[Solution.java](https://github.com/siwoon-son/data-structures-and-algorithms/tree/master/src/main/java/hackerrank/datastructures/easy/JesseAndCookies/Solution.java)
 |Disjoint Set|[Components in a graph](https://www.hackerrank.com/challenges/components-in-graph)    |[Solution.java](https://github.com/siwoon-son/data-structures-and-algorithms/tree/master/src/main/java/hackerrank/datastructures/medium/ComponentsInAGraph/Solution.java)
 |Trie|[Contacts](https://www.hackerrank.com/challenges/contacts)    |[Solution.java](https://github.com/siwoon-son/data-structures-and-algorithms/tree/master/src/main/java/hackerrank/datastructures/medium/Contacts/Solution.java)
-
