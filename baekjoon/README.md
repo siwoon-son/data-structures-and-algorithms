@@ -125,3 +125,12 @@
 |[LCS](https://www.acmicpc.net/problem/9251)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem9251/Main.java)|
 |[연속합](https://www.acmicpc.net/problem/1912)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1912/Main.java)|
 |[평범한 배낭](https://www.acmicpc.net/problem/12865)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem12865/Main.java)|
+
+## 스택
+|문제      |답 |
+|----------|---|
+|[스택](https://www.acmicpc.net/problem/10828)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem10828/Main.java)|
+|[제로](https://www.acmicpc.net/problem/10773)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem10773/Main.java)|
+|[괄호](https://www.acmicpc.net/problem/9012)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem9012/Main.java)|
+|[균형잡힌 세상](https://www.acmicpc.net/problem/4949)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem4949/Main.java)|
+|[스택 수열](https://www.acmicpc.net/problem/1874)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1874/Main.java)|
