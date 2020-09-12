@@ -102,6 +102,7 @@
 |----------|---|
 |[팩토리얼](https://www.acmicpc.net/problem/10872)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem10872/Main.java)|
 |[피보나치 수 5](https://www.acmicpc.net/problem/10870)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem10870/Main.java)|
+|[별 찍기 - 10](https://www.acmicpc.net/problem/2447)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2447/Main.java)|
 
 ## 정렬
 |문제      |답 |
