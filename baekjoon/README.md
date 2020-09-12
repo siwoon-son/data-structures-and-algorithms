@@ -14,6 +14,7 @@
 |[A/B](https://www.acmicpc.net/problem/1008)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1008/Main.java)|
 |[사칙연산](https://www.acmicpc.net/problem/10869)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem10869/Main.java)|
 |[나머지](https://www.acmicpc.net/problem/10430)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem10430/Main.java)|
+|[곱셈](https://www.acmicpc.net/problem/2588)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2588/Main.java)|
 
 ## if문
 
