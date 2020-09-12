@@ -20,16 +20,23 @@
 
 |문제      |답 |
 |----------|---|
+|[두 수 비교하기](https://www.acmicpc.net/problem/1330)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1330/Main.java)|
 |[시험 성적](https://www.acmicpc.net/problem/9498)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem9498/Main.java)|
+|[윤년](https://www.acmicpc.net/problem/2753)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2753/Main.java)|
+|[사분면 고르기](https://www.acmicpc.net/problem/14681)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem14681/Main.java)|
+|[알람 시계](https://www.acmicpc.net/problem/2884)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2884/Main.java)|
 
 ## for문
 |문제      |답 |
 |----------|---|
 |[구구단](https://www.acmicpc.net/problem/2739)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2739/Main.java)|
+|[A+B - 3](https://www.acmicpc.net/problem/10950)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem10950/Main.java)|
 |[합](https://www.acmicpc.net/problem/8393)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem8393/Main.java)|
 |[빠른 A+B](https://www.acmicpc.net/problem/15552)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem15552/Main.java)|
 |[N 찍기](https://www.acmicpc.net/problem/2741)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2741/Main.java)|
 |[기찍 N](https://www.acmicpc.net/problem/2742)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2742/Main.java)|
+|[A+B - 7](https://www.acmicpc.net/problem/11021)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem11021/Main.java)|
+|[A+B - 8](https://www.acmicpc.net/problem/11022)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem11022/Main.java)|
 |[별 찍기 - 1](https://www.acmicpc.net/problem/2438)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2438/Main.java)|
 |[별 찍기 - 2](https://www.acmicpc.net/problem/2439)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2439/Main.java)|
 |[X보다 작은 수](https://www.acmicpc.net/problem/10871)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem10871/Main.java)|
@@ -37,6 +44,8 @@
 ## while문
 |문제      |답 |
 |----------|---|
+|[A+B - 5](https://www.acmicpc.net/problem/10952)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem10952/Main.java)
+|[A+B - 4](https://www.acmicpc.net/problem/10951)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem10951/Main.java)
 |[더하기 사이클](https://www.acmicpc.net/problem/1110)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1110/Main.java)
 
 ## 실습 1
