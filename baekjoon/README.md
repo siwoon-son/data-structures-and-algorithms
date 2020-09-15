@@ -97,6 +97,7 @@
 |[설탕 배달](https://www.acmicpc.net/problem/2839)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2839/Main.java)|
 |[벌집](https://www.acmicpc.net/problem/2292)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2292/Main.java)|
 |[분수찾기](https://www.acmicpc.net/problem/1193)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1193/Main.java)|
+|[달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2869/Main.java)|
 |[ACM 호텔](https://www.acmicpc.net/problem/10250)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem10250/Main.java)|
 |[부녀회장이 될테야](https://www.acmicpc.net/problem/2775)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2775/Main.java)|
 |[Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1011/Main.java)|
