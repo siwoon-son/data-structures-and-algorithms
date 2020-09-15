@@ -93,6 +93,7 @@
 ## 수학 1
 |문제      |답 |
 |----------|---|
+|[손익분기점](https://www.acmicpc.net/problem/1712)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1712/Main.java)|
 |[설탕 배달](https://www.acmicpc.net/problem/2839)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2839/Main.java)|
 |[벌집](https://www.acmicpc.net/problem/2292)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2292/Main.java)|
 |[분수찾기](https://www.acmicpc.net/problem/1193)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1193/Main.java)|
