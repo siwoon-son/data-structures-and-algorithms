@@ -56,6 +56,7 @@
 |[세 수](https://www.acmicpc.net/problem/10817)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem10817/Main.java)|
 |[별 찍기 - 13](https://www.acmicpc.net/problem/2523)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2523/Main.java)|
 |[별 찍기 - 9](https://www.acmicpc.net/problem/2446)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2446/Main.java)|
+|[별 찍기 - 21](https://www.acmicpc.net/problem/10996)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem10996/Main.java)|
 
 ## 1차원 배열
 |문제      |답 |
