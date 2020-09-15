@@ -64,6 +64,7 @@
 |[최소, 최대](https://www.acmicpc.net/problem/10818)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem10818/Main.java)|
 |[최댓값](https://www.acmicpc.net/problem/2562)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2562/Main.java)|
 |[숫자의 개수](https://www.acmicpc.net/problem/2577)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2577/Main.java)|
+|[나머지](https://www.acmicpc.net/problem/3052)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem3052/Main.java)|
 |[평균](https://www.acmicpc.net/problem/1546)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1546/Main.java)|
 |[OX퀴즈](https://www.acmicpc.net/problem/8958)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem8958/Main.java)|
 |[평균은 넘겠지](https://www.acmicpc.net/problem/4344)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem4344/Main.java)|
