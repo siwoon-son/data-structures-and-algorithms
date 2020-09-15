@@ -72,6 +72,7 @@
 ## 함수
 |문제      |답 |
 |----------|---|
+|[정수 N개의 합](https://www.acmicpc.net/problem/15596)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem15596/Test.java)|
 |[셀프 넘버](https://www.acmicpc.net/problem/4673)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem4673/Main.java)|
 |[한수](https://www.acmicpc.net/problem/1065)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1065/Main.java)|
 
