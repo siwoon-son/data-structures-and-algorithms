@@ -111,6 +111,7 @@
 |[베르트랑 공준](https://www.acmicpc.net/problem/4948)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem4948/Main.java)|
 |[골드바흐의 추측](https://www.acmicpc.net/problem/9020)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem9020/Main.java)|
 |[직사각형에서 탈출](https://www.acmicpc.net/problem/1085)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1085/Main.java)|
+|[네 번째 점](https://www.acmicpc.net/problem/3009)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem3009/Main.java)|
 |[터렛](https://www.acmicpc.net/problem/1002)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1002/Main.java)|
 
 ## 재귀
