@@ -5,6 +5,7 @@ import java.util.StringTokenizer;
 
 public class Main {
 	public static void main(String[] args) throws IOException {
+		// 주어진 세 숫자로 직각삼각형을 이루는지 판별한다.
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 

@@ -113,6 +113,7 @@
 |[직사각형에서 탈출](https://www.acmicpc.net/problem/1085)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1085/Main.java)|
 |[네 번째 점](https://www.acmicpc.net/problem/3009)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem3009/Main.java)|
 |[직각삼각형](https://www.acmicpc.net/problem/4153)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem4153/Main.java)|
+|[택시 기하학](https://www.acmicpc.net/problem/3053)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem3053/Main.java)|
 |[터렛](https://www.acmicpc.net/problem/1002)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1002/Main.java)|
 
 ## 재귀
