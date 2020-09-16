@@ -107,6 +107,7 @@
 |----------|---|
 |[소수 찾기](https://www.acmicpc.net/problem/1978)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1978/Main.java)|
 |[소수](https://www.acmicpc.net/problem/2581)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2581/Main.java)|
+|[소수 구하기](https://www.acmicpc.net/problem/1929)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1929/Main.java)|
 |[터렛](https://www.acmicpc.net/problem/1002)|[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1002/Main.java)|
 
 ## 재귀
