@@ -123,6 +123,11 @@
 |[피보나치 수 5](https://www.acmicpc.net/problem/10870)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem10870/Main.java)|
 |[별 찍기 - 10](https://www.acmicpc.net/problem/2447)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2447/Main.java)|
 
+## 브루트 포스
+|문제      |답 |
+|----------|---|
+|[블랙잭](https://www.acmicpc.net/problem/2798)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2798/Main.java)|
+
 ## 정렬
 |문제      |답 |
 |----------|---|
