@@ -142,6 +142,11 @@
 |[단어 정렬](https://www.acmicpc.net/problem/1181)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1181/Main.java)|
 |[나이순 정렬](https://www.acmicpc.net/problem/10814)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem10814/Main.java)|
 
+## 정렬
+|문제      |답 |
+|----------|---|
+|[N과 M (1)](https://www.acmicpc.net/problem/15649)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem15649/Main.java)|
+
 ## 동적 계획법 1
 |문제      |답 |
 |----------|---|
