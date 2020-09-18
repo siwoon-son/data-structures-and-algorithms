@@ -146,6 +146,7 @@
 |문제      |답 |
 |----------|---|
 |[N과 M (1)](https://www.acmicpc.net/problem/15649)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem15649/Main.java)|
+|[N과 M (2)](https://www.acmicpc.net/problem/15650)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem15650/Main.java)|
 
 ## 동적 계획법 1
 |문제      |답 |
