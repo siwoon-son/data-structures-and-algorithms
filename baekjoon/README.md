@@ -170,6 +170,11 @@
 |[연속합](https://www.acmicpc.net/problem/1912)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1912/Main.java)|
 |[평범한 배낭](https://www.acmicpc.net/problem/12865)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem12865/Main.java)|
 
+## 수학 3
+|문제      |답 |
+|----------|---|
+|[배수와 약수](https://www.acmicpc.net/problem/5086)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem5086/Main.java)|
+
 ## 스택
 |문제      |답 |
 |----------|---|
