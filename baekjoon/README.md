@@ -174,6 +174,7 @@
 |문제      |답 |
 |----------|---|
 |[배수와 약수](https://www.acmicpc.net/problem/5086)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem5086/Main.java)|
+|[약수](https://www.acmicpc.net/problem/1037)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1037/Main.java)|
 
 ## 스택
 |문제      |답 |
