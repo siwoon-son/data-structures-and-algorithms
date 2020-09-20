@@ -176,6 +176,7 @@
 |[배수와 약수](https://www.acmicpc.net/problem/5086)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem5086/Main.java)|
 |[약수](https://www.acmicpc.net/problem/1037)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1037/Main.java)|
 |[소인수분해](https://www.acmicpc.net/problem/11653)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem11653/Main.java)|
+|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2609/Main.java)|
 
 ## 스택
 |문제      |답 |
