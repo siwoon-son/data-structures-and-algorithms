@@ -181,6 +181,7 @@
 |[이항 계수 1](https://www.acmicpc.net/problem/11050)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem11050/Main.java)|
 |[패션왕 신해빈](https://www.acmicpc.net/problem/9375)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem9375/Main.java)|
 |[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1676/Main.java)|
+|[조합 0의 개수](https://www.acmicpc.net/problem/2004)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2004/Main.java)|
 
 ## 스택
 |문제      |답 |
