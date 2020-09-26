@@ -191,3 +191,8 @@
 |[괄호](https://www.acmicpc.net/problem/9012)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem9012/Main.java)|
 |[균형잡힌 세상](https://www.acmicpc.net/problem/4949)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem4949/Main.java)|
 |[스택 수열](https://www.acmicpc.net/problem/1874)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1874/Main.java)|
+
+## 큐, 
+|문제      |답 |
+|----------|---|
+|[큐 2](https://www.acmicpc.net/problem/18258)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem18258/Main.java)|
