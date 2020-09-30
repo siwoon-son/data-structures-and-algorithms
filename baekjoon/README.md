@@ -197,3 +197,4 @@
 |----------|---|
 |[큐 2](https://www.acmicpc.net/problem/18258)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem18258/Main.java)|
 |[카드2](https://www.acmicpc.net/problem/2164)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2164/Main.java)|
+|[요세푸스 문제 0](https://www.acmicpc.net/problem/11866)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem11866/Main.java)|
