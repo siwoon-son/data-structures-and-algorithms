@@ -142,7 +142,7 @@
 |[단어 정렬](https://www.acmicpc.net/problem/1181)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1181/Main.java)|
 |[나이순 정렬](https://www.acmicpc.net/problem/10814)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem10814/Main.java)|
 
-## 정렬
+## 백트래킹
 |문제      |답 |
 |----------|---|
 |[N과 M (1)](https://www.acmicpc.net/problem/15649)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem15649/Main.java)|
@@ -169,6 +169,12 @@
 |[LCS](https://www.acmicpc.net/problem/9251)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem9251/Main.java)|
 |[연속합](https://www.acmicpc.net/problem/1912)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1912/Main.java)|
 |[평범한 배낭](https://www.acmicpc.net/problem/12865)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem12865/Main.java)|
+
+## 그리디 알고리즘
+|문제      |답 |
+|----------|---|
+|[동전 0](https://www.acmicpc.net/problem/11047)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem11047/Main.java)|
+
 
 ## 수학 3
 |문제      |답 |
