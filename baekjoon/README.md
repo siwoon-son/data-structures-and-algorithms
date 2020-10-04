@@ -174,6 +174,7 @@
 |문제      |답 |
 |----------|---|
 |[동전 0](https://www.acmicpc.net/problem/11047)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem11047/Main.java)|
+|[ATM](https://www.acmicpc.net/problem/11399)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem11399/Main.java)|
 
 
 ## 수학 3
