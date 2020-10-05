@@ -128,6 +128,7 @@
 |----------|---|
 |[블랙잭](https://www.acmicpc.net/problem/2798)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem2798/Main.java)|
 |[덩치](https://www.acmicpc.net/problem/7568)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem7568/Main.java)|
+|[영화감독 숌](https://www.acmicpc.net/problem/1436)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1436/Main.java)|
 
 ## 정렬
 |문제      |답 |
