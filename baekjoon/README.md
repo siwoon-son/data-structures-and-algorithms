@@ -176,6 +176,7 @@
 |----------|---|
 |[동전 0](https://www.acmicpc.net/problem/11047)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem11047/Main.java)|
 |[ATM](https://www.acmicpc.net/problem/11399)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem11399/Main.java)|
+|[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|	[Main.java](https://github.com/siwoon-son/data-structures-and-algorithms/blob/master/baekjoon/src/main/java/Problem1541/Main.java)|
 
 
 ## 수학 3
